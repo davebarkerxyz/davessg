@@ -7,6 +7,11 @@ Ultra simple, minimal, and probably missing most of the features *you* need.
 Dave's Static Site Generator is written in Go and uses the [Goldmark](https://github.com/yuin/goldmark) library for Markdown parsing.
 
 
+## Building
+
+Clone the repo and run `go build davessg.go`. Nice and easy.
+
+
 ## Usage
 
 `davessg -help` is pretty self explanatory.
